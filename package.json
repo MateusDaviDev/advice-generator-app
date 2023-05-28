@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://{MateusDaviDev}.github.io/{advice-generator-app}",
+  "homepage": "https://MateusDaviDev.github.io/advice-generator-app",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
